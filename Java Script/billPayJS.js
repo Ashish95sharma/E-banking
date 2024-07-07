@@ -11,6 +11,6 @@ function goto () {
     {
         document.getElementById( "error" ).innerHTML = "";
         alert( "Bill had paid successfully!!." );
-        window.location.replace( "home.html" );
+        window.location.replace( "index.html" );
     }
 }

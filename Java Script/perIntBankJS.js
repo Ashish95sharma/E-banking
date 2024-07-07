@@ -9,7 +9,7 @@ function goto () {
     {
         right();
         window.alert( "Rs." + document.getElementById( "amnt" ).value + " sent to the acc no: " + document.getElementById( "accno" ).value );
-        window.location.replace( "home.html" );
+        window.location.replace( "index.html" );
     }
     else
     {

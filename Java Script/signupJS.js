@@ -107,6 +107,6 @@ function validForm () {
 }
 function goto () {
     document.getElementById( "signupbtn" ).style.borderStyle = "inset";
-    window.location.replace( "home.html" );
+    window.location.replace( "../index.html" );
     return true;
 }

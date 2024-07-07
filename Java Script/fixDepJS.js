@@ -55,7 +55,7 @@ function goto () {
     else
     {
         alert( "Deposited..." );
-        window.location.replace( "home.html" );
+        window.location.replace( "index.html" );
         return true;
     }
 }
